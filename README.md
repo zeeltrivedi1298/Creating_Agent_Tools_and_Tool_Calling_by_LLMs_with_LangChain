@@ -1,4 +1,3 @@
-# Hands on Creating Agent Tools and Tool Calling by LLMs with LangChain
 
 # 🧑‍💻 Hands-On: Creating Agent Tools and Tool Calling with LLMs using LangChain
 
